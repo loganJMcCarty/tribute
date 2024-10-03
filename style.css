@@ -1,0 +1,10 @@
+.myimg{
+	width:300px;
+	height:300px;
+	object-fit:cover;
+	border-radius: 50%;
+
+}
+ "theme": "Default.sublime-theme",
+    "background": "path/to/your/the game therists.png",
+    "overlay_scroll_bars": "enabled"
