@@ -1,10 +1,29 @@
+p, li {
+	font-size: 20px;
+	font-family: Roboto;
+}
 .myimg{
 	width:300px;
 	height:300px;
 	object-fit:cover;
 	border-radius: 50%;
+	display: block;
+}
+#header {
+	text-align: center;
+	background-color: darkseagreen;
+	margin: 100px;
+	padding: 30px;
+}
+body{
+	height: 100vh;
+	background-repeat: no-repeat;
+	background-size: 100% 125%;
+	background-image:url("the game therists 2.png");
+	color: lightskyblue;
+	margin: 100px;
 
 }
- "theme": "Default.sublime-theme",
-    "background": "path/to/your/the game therists.png",
-    "overlay_scroll_bars": "enabled"
+img {
+	width: 700px;
+}
